@@ -1,4 +1,7 @@
 # player-tracker
 A simple mod that adds one item: a compass that can cycle through online players and track them. Made because one did not exist for 1.7.10.
-Now also contains a 1.12.2 release.
-(untested)
+
+
+i wanted to add a feature to enable/disable tracking on certain players with a command (so i could use betterquesting with it)
+i cannot promise there won't be bugs
+also uses gtnh example mod as a base
