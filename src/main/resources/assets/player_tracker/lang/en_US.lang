@@ -1,0 +1,2 @@
+item.tracker_compass.name=Tracker Compass
+commands.tracking.invalid_option=Last argument must be true or false!
